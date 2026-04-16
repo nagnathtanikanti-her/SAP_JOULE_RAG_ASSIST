@@ -1,0 +1,15 @@
+groq 
+langchain-community 
+pypdf 
+faiss-cpu 
+streamlit
+langchain
+langchain_groq
+torchvision
+pdfminer.six 
+pillow 
+pytesseract
+langchain_mistralai
+numpy
+scikit-learn
+python-dotenv
